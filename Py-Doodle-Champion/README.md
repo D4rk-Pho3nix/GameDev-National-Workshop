@@ -1,5 +1,6 @@
 # Guitar Hero AI Agent
-
+made with 🩷 by Dark_Pho3nix (Dark Phoenix#3055)
+---
 A computer vision-based AI that detects notes in rhythm games like Guitar Hero and logs key presses.
 
 ## Installation
